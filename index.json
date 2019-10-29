@@ -1,0 +1,79 @@
+[
+    {
+      "displayName": "Kabanero Eclipse MicroProfile® template",
+      "description": "Eclipse MicroProfile on Open Liberty & OpenJ9 using Maven",
+      "language": "java",
+      "projectType": "appsodyExtension",
+      "projectStyle": "Appsody",
+      "location": "https://github.com/kabanero-io/collections/releases/download/0.2.0/incubator.java-microprofile.v0.2.18.templates.default.tar.gz",
+      "links": {
+        "self": "/devfiles/java-microprofile/devfile.yaml"
+      }
+    },
+    {
+      "displayName": "Kabanero Spring Boot® default template",
+      "description": "Spring Boot using OpenJ9 and Maven",
+      "language": "java",
+      "projectType": "appsodyExtension",
+      "projectStyle": "Appsody",
+      "location": "https://github.com/kabanero-io/collections/releases/download/0.2.0/incubator.java-spring-boot2.v0.3.15.templates.default.tar.gz",
+      "links": {
+        "self": "/devfiles/java-spring-boot2/devfile.yaml"
+      }
+    },
+    {
+      "displayName": "Kabanero Spring Boot® kotlin template",
+      "description": "Spring Boot using OpenJ9 and Maven",
+      "language": "java",
+      "projectType": "appsodyExtension",
+      "projectStyle": "Appsody",
+      "location": "https://github.com/kabanero-io/collections/releases/download/0.2.0/incubator.java-spring-boot2.v0.3.15.templates.kotlin.tar.gz",
+      "links": {
+        "self": "/devfiles/java-spring-boot2/devfile.yaml"
+      }
+    },
+    {
+      "displayName": "Kabanero Node.js Express scaffold template",
+      "description": "Express web framework for Node.js",
+      "language": "nodejs",
+      "projectType": "appsodyExtension",
+      "projectStyle": "Appsody",
+      "location": "https://github.com/kabanero-io/collections/releases/download/0.2.0/incubator.nodejs-express.v0.2.7.templates.scaffold.tar.gz",
+      "links": {
+        "self": "/devfiles/nodejs-express/devfile.yaml"
+      }
+    },
+    {
+      "displayName": "Kabanero Node.js Express simple template",
+      "description": "Express web framework for Node.js",
+      "language": "nodejs",
+      "projectType": "appsodyExtension",
+      "projectStyle": "Appsody",
+      "location": "https://github.com/kabanero-io/collections/releases/download/0.2.0/incubator.nodejs-express.v0.2.7.templates.simple.tar.gz",
+      "links": {
+        "self": "/devfiles/nodejs-express/devfile.yaml"
+      }
+    },
+    {
+      "displayName": "Kabanero LoopBack 4 template",
+      "description": "LoopBack 4 API Framework for Node.js",
+      "language": "nodejs",
+      "projectType": "appsodyExtension",
+      "projectStyle": "Appsody",
+      "location": "https://github.com/kabanero-io/collections/releases/download/0.2.0/incubator.nodejs-loopback.v0.1.5.templates.scaffold.tar.gz",
+      "links": {
+        "self": "/devfiles/nodejs-loopback/devfile.yaml"
+      }
+    },
+    {
+      "displayName": "Kabanero Node.js template",
+      "description": "Runtime for Node.js applications",
+      "language": "nodejs",
+      "projectType": "appsodyExtension",
+      "projectStyle": "Appsody",
+      "location": "https://github.com/kabanero-io/collections/releases/download/0.2.0/incubator.nodejs.v0.2.5.templates.simple.tar.gz",
+      "links": {
+        "self": "/devfiles/nodejs/devfile.yaml"
+      }
+    }
+  ]
